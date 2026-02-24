@@ -1,7 +1,7 @@
 # 🎨 Studio ONDO
 
 > **Connecting Tech and Emotion**<br>
-> 사용자의 경험을 잇는 따뜻한 기술, 작가 **온도(Ondo)**입니다.
+> 사용자의 경험을 잇는 따뜻한 기술, 작가 온도(Ondo)입니다.
 
 ### 🛠 My Specialities
 - **Web Publishing:** 반응형 웹 제작, 레이아웃 수정, UI 인터랙션
