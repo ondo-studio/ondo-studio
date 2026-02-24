@@ -1,16 +1,17 @@
-## Hi there 👋
+# 🎨 Studio ONDO
 
-<!--
-**ondo-studio/ondo-studio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Connecting Tech and Emotion**<br>
+> 사용자의 경험을 잇는 따뜻한 기술, 작가 **온도(Ondo)**입니다.
 
-Here are some ideas to get you started:
+### 🛠 My Specialities
+- **Web Publishing:** 반응형 웹 제작, 레이아웃 수정, UI 인터랙션
+- **Virtual Design:** 주간 스케줄표, 구독티콘, 방송 리소스 제작
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📂 Explore My Work
+- [Web Portfolio](https://github.com/ondo-studio/portfolio)
+- [Virtual Assets Gallery](https://github.com/ondo-studio/virtual-assets)
+
+---
+### 📫 Contact
+* **Email:** lab@on-bridge.com
+* **Instagram:** @onbridge_official
